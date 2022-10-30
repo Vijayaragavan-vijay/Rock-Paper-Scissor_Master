@@ -28,7 +28,7 @@ Desktop view:
 ### Links
 
 - Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://vijayrockpaperscissor.netlify.app/)
+- Live Site URL: [live site](https://fanciful-maamoul-efcfbc.netlify.app/)
 
 
 
